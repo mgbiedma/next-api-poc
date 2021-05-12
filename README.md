@@ -8,4 +8,4 @@ Just run:
 And use postman to GET:
 'http://localhost:3000/api/test'
 
-You'll get a random `hipsterish`string.
+You'll get a random hipsterish string.
